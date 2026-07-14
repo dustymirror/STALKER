@@ -72,6 +72,7 @@ The script is designed to bring the atmosphere of the film into your modular syn
 2. add ["Stalker", "contrib.stalker.Stalker"], to the menu.py
 3. Restart EuroPi.
 4. Select **"Stalker"** from the main menu.
+5. Press B1 to start.
 
 ---
 
@@ -169,6 +170,7 @@ The script is designed to bring the atmosphere of the film into your modular syn
 2. 将 ["Stalker", "contrib.stalker.Stalker"], 加入menu.py
 3. 重启 EuroPi
 4. 在主菜单中选择 **"Stalker"**
+5. 按B1开始运行
 
 ---
 
