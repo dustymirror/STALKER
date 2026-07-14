@@ -1,7 +1,7 @@
 <p align="left">
   <img src="https://i.ytimg.com/vi/YuOnfQd-aTw/sddefault.jpg" alt="Stalker" width="600">
 </p>
-# Сталкер — EuroPi Script
+# Сталкер — EuroPi Script - DustyMirror 2026
 
 [English](#english) | [中文](#chinese)
 
@@ -10,9 +10,12 @@
 <a name="english"></a>
 ## English
 
-### Overview
+<p align="left">
+  <img src="https://github.com/dustymirror/STALKER/blob/main/stalker.gif" alt="Stalker" width="300">
+</p>
 
-**STALKERr** is a script for the [EuroPi](https://github.com/Allen-Synthesis/EuroPi) eurorack module. It randomly displays phrases from the film *Сталкер* (directed by Andrei Tarkovsky 1979) on the built-in OLED screen, while generating 5 CV outputs and a trigger signal based on the linguistic characteristics of each phrase.
+### Overview
+**STALKER** is a script for the [EuroPi](https://github.com/Allen-Synthesis/EuroPi) eurorack module. It randomly displays phrases from the film *Сталкер* (directed by Andrei Tarkovsky 1979) on the built-in OLED screen, while generating 5 CV outputs and a trigger signal based on the linguistic characteristics of each phrase.
 
 The script is designed to bring the atmosphere of the film into your modular synth system—each phrase carries its own "emotional weight," reflected in the voltage outputs.
 
