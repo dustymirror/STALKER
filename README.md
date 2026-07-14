@@ -69,8 +69,9 @@ The script is designed to bring the atmosphere of the film into your modular syn
 ### Installation
 
 1. Copy `stalker.py` to the `/lib/contrib/` directory on your EuroPi.
-2. Restart EuroPi.
-3. Select **"Stalker"** from the main menu.
+2. add ["Stalker", "contrib.stalker.Stalker"], to the menu.py
+3. Restart EuroPi.
+4. Select **"Stalker"** from the main menu.
 
 ---
 
@@ -165,8 +166,9 @@ The script is designed to bring the atmosphere of the film into your modular syn
 ### 安装方法
 
 1. 将 `stalker.py` 复制到 EuroPi 的 `/lib/contrib/` 目录下
-2. 重启 EuroPi
-3. 在主菜单中选择 **"Stalker"**
+2. 将 ["Stalker", "contrib.stalker.Stalker"], 加入menu.py
+3. 重启 EuroPi
+4. 在主菜单中选择 **"Stalker"**
 
 ---
 
